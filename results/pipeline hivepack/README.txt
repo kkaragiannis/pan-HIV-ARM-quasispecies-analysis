@@ -1,0 +1,2 @@
+Files with extension ".hivepack" are compressed files that include data and metadata of HIVE objects. Upload a .hivepack file to a HIVE server to recover the original structure of the computations.
+The file is available at https://hive.biochemistry.gwu.edu/dna.cgi?cmd=home&folder=/HIVE%20Space/pan-HIV%20ARM%20hivepack
